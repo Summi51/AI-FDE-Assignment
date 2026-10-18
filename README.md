@@ -32,6 +32,13 @@ python3 scripts/smoke_http.py
 
 The smoke script expects the server to be running.
 
+## Notes
+
+- `notes/01-problem-and-decision.md` — why the chatbot lost, and the numbers behind the Monday list
+- `notes/04-research-and-assumptions.md` — what was looked up outside the pack, the options compared, and the ten assumptions the screen depends on
+- `notes/02-deck.md` — slide outline
+- `notes/03-video-script.md` — narration, under four minutes. The video itself is not in the repo until it is recorded.
+
 ## What the brief will not do
 
 - It will not add INR and BRL, or convert either to USD.
