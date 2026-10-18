@@ -1,0 +1,37 @@
+role,data_domain,access_scope,notes
+Chief Digital Officer,*,Global,Aggregates only in BI. No distributor-level credit data.
+Chief Digital Officer,receivables,None,
+Global Sales Head,*,Global,
+Global Finance Controller,*,Global,
+Regional Sales Manager,sell_in,Own sub-region,
+Regional Sales Manager,returns,Own sub-region,
+Regional Sales Manager,targets,Own sub-region,
+Regional Sales Manager,dealer_scans,Own sub-region,
+Regional Sales Manager,receivables,Own sub-region,
+Regional Sales Manager,schemes_credits,Own sub-region,
+Regional Sales Manager,weather,Global,
+Regional Finance Controller,*,Own region,
+Territory Manager,sell_in,Own territory,
+Territory Manager,returns,Own territory,
+Territory Manager,targets,Own territory,Cannot see other territories' targets or achievement
+Territory Manager,dealer_scans,Own territory,
+Territory Manager,receivables,Own territory,Distributors in own territory only
+Territory Manager,schemes_credits,Own territory,
+Territory Manager,weather,Global,
+Key Account Manager,sell_in,Assigned distributors,distributors.kam_user_id
+Key Account Manager,receivables,Assigned distributors,
+Key Account Manager,schemes_credits,Assigned distributors,
+Key Account Manager,returns,Assigned distributors,
+Key Account Manager,targets,None,
+Field Agronomist,dealer_scans,Own territory,
+Field Agronomist,weather,Global,
+Field Agronomist,sell_in,Own territory,Quantities only. No prices or amounts.
+Field Agronomist,receivables,None,
+Field Agronomist,schemes_credits,None,
+Field Agronomist,targets,None,
+Sales Operations Analyst,*,Own region,No receivables
+Sales Operations Analyst,receivables,None,
+BI Analyst,*,Global,Service access for maintenance. Not for business questions.
+Loyalty Program Manager,dealer_scans,Own region,
+Loyalty Program Manager,schemes_credits,Own region,Loyalty schemes only
+Loyalty Program Manager,sell_in,Own region,Quantities only

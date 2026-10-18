@@ -1,0 +1,35 @@
+territory_code,region_code,sub_region,territory_name,country,currency,legacy_code,main_language
+NA-C01,NA,NA,Corn Belt East,US,USD,US-CBE,en
+NA-C02,NA,NA,Corn Belt Central,US,USD,US-CBC,en
+NA-C03,NA,NA,Corn Belt West,US,USD,US-CBW,en
+NA-C04,NA,NA,Upper Midwest,US,USD,US-UMW,en
+NA-P01,NA,NA,Northern Plains,US,USD,US-NPL,en
+NA-P02,NA,NA,Southern Plains,US,USD,US-SPL,en
+NA-D01,NA,NA,Delta and Southeast,US,USD,US-DSE,en
+NA-K01,NA,NA,Canadian Prairies,CA,CAD,CA-PRA,en
+BR-S01,BR,BR-South,Rio Grande do Sul North,BR,BRL,BRSUL01,pt
+BR-S02,BR,BR-South,Rio Grande do Sul West,BR,BRL,BRSUL02,pt
+BR-S03,BR,BR-South,Santa Catarina and South Parana,BR,BRL,BRSUL03,pt
+BR-S04,BR,BR-South,West Parana,BR,BRL,BRSUL04,pt
+BR-C01,BR,BR-Center,North Mato Grosso,BR,BRL,BRCO01,pt
+BR-C02,BR,BR-Center,South Mato Grosso and Mato Grosso do Sul,BR,BRL,BRCO02,pt
+BR-C03,BR,BR-Center,Goias and Minas Triangle,BR,BRL,BRCO03,pt
+BR-C04,BR,BR-Center,Northeast Frontier,BR,BRL,BRCO04,pt
+EU-FR1,EU,EU,France North,FR,EUR,FRN,fr
+EU-FR2,EU,EU,France South West,FR,EUR,FRSW,fr
+EU-DE1,EU,EU,Germany,DE,EUR,DEU,de
+EU-PL1,EU,EU,Poland,PL,EUR,POL,pl
+EU-RO1,EU,EU,Romania,RO,EUR,ROU,ro
+EU-ES1,EU,EU,Spain,ES,EUR,ESP,es
+EU-IT1,EU,EU,Italy,IT,EUR,ITA,it
+EU-UK1,EU,EU,United Kingdom,GB,GBP,GBR,en
+IN-N01,IN,IN-North-Central,Punjab,IN,INR,PB01,pa
+IN-N02,IN,IN-North-Central,Haryana,IN,INR,HR01,hi
+IN-N03,IN,IN-North-Central,West Uttar Pradesh,IN,INR,UPW01,hi
+IN-C01,IN,IN-North-Central,Madhya Pradesh,IN,INR,MP01,hi
+IN-W01,IN,IN-West-South,Vidarbha,IN,INR,MHV01,mr
+IN-W02,IN,IN-West-South,Marathwada,IN,INR,MHM01,mr
+IN-W03,IN,IN-West-South,Gujarat,IN,INR,GJ01,gu
+IN-S01,IN,IN-West-South,Telangana,IN,INR,TS01,te
+IN-S02,IN,IN-West-South,North Karnataka,IN,INR,KA01,kn
+IN-S03,IN,IN-West-South,Andhra Pradesh,IN,INR,AP01,te

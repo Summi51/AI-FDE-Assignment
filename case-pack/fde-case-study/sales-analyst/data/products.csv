@@ -1,0 +1,30 @@
+product_id,product_name,category,sub_category,crop,pack_size,list_price_usd,regions_sold
+SD-CRN-01,Corn hybrid CX-412,Seeds,Corn seed,Corn,80k kernel bag,265,NA BR EU
+SD-CRN-02,Corn hybrid CX-508,Seeds,Corn seed,Corn,80k kernel bag,290,NA BR EU
+SD-CRN-03,Corn hybrid CX-317,Seeds,Corn seed,Corn,4 kg pack,32,IN
+SD-SOY-01,Soybean variety SV-61,Seeds,Soybean seed,Soybean,140k seed bag,58,NA BR
+SD-SOY-02,Soybean variety SV-74,Seeds,Soybean seed,Soybean,140k seed bag,64,NA BR
+SD-SOY-03,Soybean variety SV-29,Seeds,Soybean seed,Soybean,30 kg bag,41,IN BR
+SD-COT-01,Cotton hybrid KT-22,Seeds,Cotton seed,Cotton,450 g packet,11,IN
+SD-COT-02,Cotton variety KT-90,Seeds,Cotton seed,Cotton,20 kg bag,140,BR NA
+SD-RIC-01,Rice hybrid RH-5,Seeds,Rice seed,Rice,3 kg pack,14,IN
+SD-WHT-01,Wheat variety WV-8,Seeds,Wheat seed,Wheat,40 kg bag,36,EU IN BR
+SD-CAN-01,Canola hybrid CN-3,Seeds,Canola seed,Canola,22.7 kg bag,118,NA EU
+SD-VEG-01,Tomato hybrid TM-14,Seeds,Vegetable seed,Tomato,10 g pack,38,IN EU
+SD-VEG-02,Chilli hybrid CH-9,Seeds,Vegetable seed,Chilli,10 g pack,26,IN
+CP-HRB-01,Herbicide HB-210 (20 L),Crop Protection,Herbicide,Multi,20 L drum,96,NA BR EU IN
+CP-HRB-02,Herbicide HB-330 (5 L),Crop Protection,Herbicide,Corn,5 L can,74,NA BR EU IN
+CP-HRB-03,Herbicide HB-415 (10 L),Crop Protection,Herbicide,Soybean,10 L can,132,NA BR
+CP-HRB-04,Herbicide HB-120 (1 L),Crop Protection,Herbicide,Rice,1 L bottle,17,IN
+CP-FNG-01,Fungicide FG-220 (5 L),Crop Protection,Fungicide,Soybean,5 L can,168,NA BR
+CP-FNG-02,Fungicide FG-118 (5 L),Crop Protection,Fungicide,Cereals,5 L can,142,EU NA
+CP-FNG-03,Fungicide FG-75 (1 kg),Crop Protection,Fungicide,Multi,1 kg pack,29,IN BR EU
+CP-FNG-04,Fungicide FG-310 (5 L),Crop Protection,Fungicide,Corn,5 L can,155,NA BR EU
+CP-INS-01,Insecticide IN-40 (1 L),Crop Protection,Insecticide,Cotton,1 L bottle,46,IN BR
+CP-INS-02,Insecticide IN-62 (5 L),Crop Protection,Insecticide,Soybean,5 L can,121,BR NA
+CP-INS-03,Insecticide IN-15 (250 ml),Crop Protection,Insecticide,Vegetables,250 ml bottle,12,IN EU
+CP-SDT-01,Seed treatment ST-9 (5 L),Crop Protection,Seed treatment,Multi,5 L can,310,NA BR EU
+BI-STM-01,Biostimulant BS-1 (5 L),Biologicals,Biostimulant,Multi,5 L can,64,NA BR EU IN
+BI-STM-02,Biostimulant BS-4 (1 L),Biologicals,Biostimulant,Multi,1 L bottle,18,IN BR
+BI-NFX-01,Nitrogen fixer NF-2 (dose),Biologicals,Nitrogen fixer,Multi,Hectare dose,24,NA BR EU
+BI-FNG-01,Bio-fungicide BF-7 (1 kg),Biologicals,Bio-fungicide,Multi,1 kg pack,33,BR IN EU

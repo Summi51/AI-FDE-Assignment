@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+*.log
+app.png
+deck.png
+scripts/gh_private.py
+scripts/pdf_pages.py
+scripts/review_*.py
+case-pack/fde-case-study/talent-sourcing/
+case-pack/fde-case-study/vendor-payments/

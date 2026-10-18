@@ -1,0 +1,100 @@
+user_id,role,region,sub_region,territory_code,primary_language,country,joined_date
+U001,Chief Digital Officer,,,,en,US,2016-01-15
+U002,Global Sales Head,,,,en,US,2018-02-21
+U003,Global Finance Controller,,,,en,US,2013-07-13
+U004,Regional Sales Manager,NA,NA,,en,US,2022-08-08
+U005,Regional Sales Manager,BR,BR-South,,pt,BR,2014-09-20
+U006,Regional Sales Manager,BR,BR-Center,,pt,BR,2017-06-12
+U007,Regional Sales Manager,EU,EU,,en,FR,2017-11-26
+U008,Regional Sales Manager,IN,IN-North-Central,,hi,IN,2022-04-20
+U009,Regional Sales Manager,IN,IN-West-South,,en,IN,2014-09-13
+U010,Regional Finance Controller,NA,,,en,US,2024-02-24
+U011,Regional Finance Controller,BR,,,pt,BR,2016-06-21
+U012,Regional Finance Controller,EU,,,en,FR,2021-09-22
+U013,Regional Finance Controller,IN,,,en,IN,2015-03-28
+U014,Territory Manager,NA,NA,NA-C01,en,US,2016-09-29
+U015,Territory Manager,NA,NA,NA-C02,en,US,2015-11-28
+U016,Territory Manager,NA,NA,NA-C03,en,US,2020-12-28
+U017,Territory Manager,NA,NA,NA-C04,en,US,2021-02-08
+U018,Territory Manager,NA,NA,NA-P01,en,US,2022-07-22
+U019,Territory Manager,NA,NA,NA-P02,en,US,2020-02-28
+U020,Territory Manager,NA,NA,NA-D01,en,US,2016-10-16
+U021,Territory Manager,NA,NA,NA-K01,en,CA,2021-03-03
+U022,Territory Manager,BR,BR-South,BR-S01,pt,BR,2014-10-12
+U023,Territory Manager,BR,BR-South,BR-S02,pt,BR,2014-07-09
+U024,Territory Manager,BR,BR-South,BR-S03,pt,BR,2019-11-20
+U025,Territory Manager,BR,BR-South,BR-S04,pt,BR,2017-09-09
+U026,Territory Manager,BR,BR-Center,BR-C01,pt,BR,2013-03-25
+U027,Territory Manager,BR,BR-Center,BR-C02,pt,BR,2020-01-28
+U028,Territory Manager,BR,BR-Center,BR-C03,pt,BR,2017-11-02
+U029,Territory Manager,BR,BR-Center,BR-C04,pt,BR,2021-02-06
+U030,Territory Manager,EU,EU,EU-FR1,fr,FR,2018-08-18
+U031,Territory Manager,EU,EU,EU-FR2,fr,FR,2016-09-09
+U032,Territory Manager,EU,EU,EU-DE1,de,DE,2017-08-14
+U033,Territory Manager,EU,EU,EU-PL1,pl,PL,2017-10-17
+U034,Territory Manager,EU,EU,EU-RO1,ro,RO,2012-12-24
+U035,Territory Manager,EU,EU,EU-ES1,es,ES,2019-05-19
+U036,Territory Manager,EU,EU,EU-IT1,it,IT,2019-12-02
+U037,Territory Manager,EU,EU,EU-UK1,en,GB,2016-01-15
+U038,Territory Manager,IN,IN-North-Central,IN-N01,pa,IN,2022-01-31
+U039,Territory Manager,IN,IN-North-Central,IN-N02,hi,IN,2023-07-30
+U040,Territory Manager,IN,IN-North-Central,IN-N03,hi,IN,2020-04-22
+U041,Territory Manager,IN,IN-North-Central,IN-C01,hi,IN,2012-01-16
+U042,Territory Manager,IN,IN-West-South,IN-W01,mr,IN,2024-03-23
+U043,Territory Manager,IN,IN-West-South,IN-W02,mr,IN,2020-01-09
+U044,Territory Manager,IN,IN-West-South,IN-W03,gu,IN,2019-02-25
+U045,Territory Manager,IN,IN-West-South,IN-S01,te,IN,2017-04-16
+U046,Territory Manager,IN,IN-West-South,IN-S02,kn,IN,2016-07-30
+U047,Territory Manager,IN,IN-West-South,IN-S03,te,IN,2020-05-16
+U048,Field Agronomist,NA,NA,NA-C01,en,US,2013-09-15
+U049,Field Agronomist,NA,NA,NA-C02,en,US,2021-04-17
+U050,Field Agronomist,NA,NA,NA-C03,en,US,2022-06-26
+U051,Field Agronomist,NA,NA,NA-P01,en,US,2021-08-04
+U052,Field Agronomist,NA,NA,NA-D01,en,US,2023-09-11
+U053,Field Agronomist,NA,NA,NA-K01,en,CA,2018-03-08
+U054,Field Agronomist,BR,BR-South,BR-S01,pt,BR,2012-03-22
+U055,Field Agronomist,BR,BR-South,BR-S02,pt,BR,2012-10-14
+U056,Field Agronomist,BR,BR-South,BR-S04,pt,BR,2023-01-17
+U057,Field Agronomist,BR,BR-Center,BR-C01,pt,BR,2017-07-18
+U058,Field Agronomist,BR,BR-Center,BR-C03,pt,BR,2019-09-07
+U059,Field Agronomist,BR,BR-Center,BR-C04,pt,BR,2022-11-15
+U060,Field Agronomist,EU,EU,EU-FR1,fr,FR,2015-09-18
+U061,Field Agronomist,EU,EU,EU-DE1,de,DE,2019-09-23
+U062,Field Agronomist,EU,EU,EU-PL1,pl,PL,2012-07-31
+U063,Field Agronomist,EU,EU,EU-RO1,ro,RO,2022-03-31
+U064,Field Agronomist,EU,EU,EU-ES1,es,ES,2014-11-24
+U065,Field Agronomist,EU,EU,EU-IT1,it,IT,2019-07-02
+U066,Field Agronomist,EU,EU,EU-UK1,en,GB,2012-03-05
+U067,Field Agronomist,IN,IN-North-Central,IN-N02,hi,IN,2020-06-19
+U068,Field Agronomist,IN,IN-North-Central,IN-N03,hi,IN,2017-05-17
+U069,Field Agronomist,IN,IN-North-Central,IN-C01,hi,IN,2015-10-02
+U070,Field Agronomist,IN,IN-West-South,IN-W01,mr,IN,2021-07-23
+U071,Field Agronomist,IN,IN-West-South,IN-W02,mr,IN,2017-01-21
+U072,Field Agronomist,IN,IN-West-South,IN-W03,gu,IN,2013-06-23
+U073,Field Agronomist,IN,IN-West-South,IN-S01,te,IN,2013-04-24
+U074,Field Agronomist,IN,IN-West-South,IN-S02,kn,IN,2023-02-16
+U075,Field Agronomist,IN,IN-West-South,IN-S03,te,IN,2012-08-25
+U076,Key Account Manager,NA,,,en,US,2013-08-27
+U077,Key Account Manager,NA,,,en,US,2016-07-03
+U078,Key Account Manager,BR,,,pt,BR,2019-04-11
+U079,Key Account Manager,BR,,,pt,BR,2015-09-18
+U080,Key Account Manager,BR,,,pt,BR,2012-12-09
+U081,Key Account Manager,EU,,,en,FR,2018-12-09
+U082,Key Account Manager,EU,,,en,FR,2021-01-03
+U083,Key Account Manager,IN,,,en,IN,2021-05-30
+U084,Key Account Manager,IN,,,en,IN,2013-08-02
+U085,Key Account Manager,IN,,,en,IN,2022-07-17
+U086,Sales Operations Analyst,NA,,,en,US,2014-09-27
+U087,Sales Operations Analyst,BR,,,pt,BR,2021-03-24
+U088,Sales Operations Analyst,BR,,,pt,BR,2016-09-23
+U089,Sales Operations Analyst,EU,,,en,FR,2015-12-07
+U090,Sales Operations Analyst,IN,,,en,IN,2014-05-30
+U091,Sales Operations Analyst,IN,,,en,IN,2017-07-21
+U092,BI Analyst,,,,en,US,2018-11-04
+U093,BI Analyst,,,,en,US,2017-03-15
+U094,BI Analyst,,,,en,US,2013-10-20
+U095,BI Analyst,,,,en,IN,2024-02-01
+U096,BI Analyst,,,,en,US,2020-03-31
+U097,Loyalty Program Manager,NA,,,en,US,2016-05-29
+U098,Loyalty Program Manager,BR,,,pt,BR,2021-02-25
+U099,Loyalty Program Manager,IN,,,en,IN,2017-07-13

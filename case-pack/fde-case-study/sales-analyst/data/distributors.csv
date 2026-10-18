@@ -1,0 +1,130 @@
+distributor_id,distributor_name,region_code,territory_code,currency,tier,onboarded_date,credit_limit_local,kam_user_id
+D1001,Rasoro Crop Services,NA,NA-C01,USD,Platinum,2011-12-01,6690000,U076
+D1002,Ostamentia Grain and Agronomy,NA,NA-C01,USD,Platinum,2016-07-01,4020000,
+D1003,Rilane Crop Services,NA,NA-C01,USD,Platinum,2014-02-01,3180000,
+D1004,Tilanova Grain and Agronomy,NA,NA-C02,USD,Platinum,2012-12-01,5050000,U077
+D1005,Sasoro Farm Inputs,NA,NA-C02,USD,Gold,2013-07-01,2480000,
+D1006,Tivala Farm Inputs,NA,NA-C03,USD,Gold,2023-11-01,1820000,
+D1007,Cavene Grain and Agronomy,NA,NA-C03,USD,Platinum,2015-08-01,7080000,U077
+D1008,Vamarova Farm Inputs,NA,NA-C04,USD,Silver,2016-11-01,1370000,
+D1009,Lovalis Farm Inputs,NA,NA-C04,USD,Platinum,2011-07-01,5580000,U077
+D1010,Nevalo Farm Inputs,NA,NA-P01,USD,Gold,2023-09-01,1840000,
+D1011,Rirosex Grain and Agronomy,NA,NA-P01,USD,Platinum,2011-12-01,3740000,
+D1012,Domaria Crop Services,NA,NA-P01,USD,Gold,2019-12-01,2550000,
+D1013,Rasorum Crop Services,NA,NA-P02,USD,Gold,2009-02-01,2150000,
+D1014,Madora Crop Services,NA,NA-P02,USD,Platinum,2018-12-01,15510000,U076
+D1015,Bevalova Crop Services,NA,NA-D01,USD,Gold,2011-07-01,2150000,
+D1016,Telisova Grain and Agronomy,NA,NA-D01,USD,Platinum,2020-07-01,11210000,U076
+D1017,Morinum Farm Inputs,NA,NA-K01,CAD,Platinum,2019-09-01,4960000,
+D1018,Sanelia Crop Services,NA,NA-K01,CAD,Platinum,2012-04-01,5110000,
+D1019,Comercial Agricola Koberar,BR,BR-S01,BRL,Silver,2021-05-01,5880000,
+D1020,Terosum Insumos Agricolas,BR,BR-S01,BRL,Silver,2013-10-01,5550000,
+D1021,Ritalia Insumos Agricolas,BR,BR-S01,BRL,Platinum,2015-04-01,20530000,U078
+D1022,Pavenex Agro Distribuidora,BR,BR-S01,BRL,Gold,2016-02-01,12390000,U080
+D1023,Agropecuaria Timaris,BR,BR-S01,BRL,Gold,2020-06-01,10360000,
+D1024,Saberis Agro Distribuidora,BR,BR-S02,BRL,Gold,2018-09-01,10120000,
+D1025,Tevalis Agro Distribuidora,BR,BR-S02,BRL,Gold,2015-03-01,11000000,
+D1026,Gaberova Agro Distribuidora,BR,BR-S02,BRL,Gold,2018-05-01,9530000,
+D1027,Gaterena Insumos Agricolas,BR,BR-S02,BRL,Gold,2022-11-01,13300000,
+D1028,Belise Agro Distribuidora,BR,BR-S03,BRL,Gold,2020-04-01,17750000,U079
+D1029,Agropecuaria Sumonena,BR,BR-S03,BRL,Silver,2009-05-01,5470000,
+D1030,Agropecuaria Ritere,BR,BR-S03,BRL,Silver,2011-07-01,7250000,
+D1031,Comercial Agricola Kolanar,BR,BR-S03,BRL,Gold,2022-12-01,6820000,
+D1032,Korosum Insumos Agricolas,BR,BR-S04,BRL,Gold,2009-09-01,5790000,
+D1033,Comercial Agricola Timonis,BR,BR-S04,BRL,Silver,2016-01-01,2460000,
+D1034,Comercial Agricola Sulanar,BR,BR-S04,BRL,Gold,2015-02-01,11370000,U080
+D1035,Garoso Agro Distribuidora,BR,BR-S04,BRL,Silver,2020-11-01,5420000,
+D1036,Comercial Agricola Tilisar,BR,BR-S04,BRL,Gold,2011-03-01,12070000,
+D1037,Agropecuaria Rarosum,BR,BR-C01,BRL,Platinum,2022-05-01,21600000,U078
+D1038,Comercial Agricola Vemaria,BR,BR-C01,BRL,Gold,2022-06-01,12200000,U078
+D1039,Tiranex Insumos Agricolas,BR,BR-C01,BRL,Gold,2020-05-01,10790000,
+D1040,Comercial Agricola Movalena,BR,BR-C01,BRL,Gold,2017-07-01,7860000,
+D1041,Agropecuaria Saberis,BR,BR-C02,BRL,Silver,2010-02-01,6860000,
+D1042,Agropecuaria Lomaria,BR,BR-C02,BRL,Silver,2016-12-01,6290000,
+D1043,Comercial Agricola Vadorex,BR,BR-C02,BRL,Silver,2014-12-01,4840000,
+D1044,Comercial Agricola Kovenex,BR,BR-C02,BRL,Silver,2023-07-01,8080000,
+D1045,Mamaris Agro Distribuidora,BR,BR-C03,BRL,Silver,2022-08-01,5050000,
+D1046,Masoro Agro Distribuidora,BR,BR-C03,BRL,Gold,2014-01-01,10590000,
+D1047,Comercial Agricola Carinum,BR,BR-C03,BRL,Gold,2018-04-01,9550000,U080
+D1048,Comercial Agricola Palanex,BR,BR-C03,BRL,Gold,2018-03-01,14190000,U079
+D1049,Agropecuaria Teranar,BR,BR-C04,BRL,Gold,2019-10-01,9040000,
+D1050,Comercial Agricola Raberum,BR,BR-C04,BRL,Gold,2010-11-01,17660000,U079
+D1051,Tinelex Insumos Agricolas,BR,BR-C04,BRL,Silver,2019-07-01,4950000,
+D1052,Comercial Agricola Ramarova,BR,BR-C04,BRL,Silver,2018-02-01,8090000,
+D1053,Ravenum Agro Trade,EU,EU-FR1,EUR,Gold,2011-08-01,2040000,
+D1054,Coop Valane,EU,EU-FR1,EUR,Silver,2021-12-01,1200000,
+D1055,Doterex Agri Distribution,EU,EU-FR1,EUR,Gold,2021-03-01,2260000,U081
+D1056,Coop Kodorum,EU,EU-FR2,EUR,Silver,2017-04-01,1340000,
+D1057,Rilisena Agrar,EU,EU-FR2,EUR,Gold,2013-11-01,2150000,U081
+D1058,Coop Surose,EU,EU-FR2,EUR,Silver,2013-07-01,950000,
+D1059,Domarova Agrar,EU,EU-DE1,EUR,Gold,2019-07-01,1570000,
+D1060,Koberia Agri Distribution,EU,EU-DE1,EUR,Gold,2013-06-01,1530000,
+D1061,Maranova Agri Distribution,EU,EU-DE1,EUR,Gold,2016-03-01,1430000,
+D1062,Gamonova Agrar,EU,EU-PL1,EUR,Silver,2015-07-01,800000,
+D1063,Coop Doranis,EU,EU-PL1,EUR,Silver,2011-04-01,1250000,
+D1064,Sasorex Agro Trade,EU,EU-PL1,EUR,Gold,2023-11-01,1960000,U082
+D1065,Betale Agro Trade,EU,EU-RO1,EUR,Silver,2015-08-01,1310000,
+D1066,Vamaris Agrar,EU,EU-RO1,EUR,Silver,2017-06-01,1140000,
+D1067,Kovenis Agro Trade,EU,EU-RO1,EUR,Gold,2016-02-01,1280000,
+D1068,Vetalo Agro Trade,EU,EU-ES1,EUR,Gold,2017-03-01,1770000,U082
+D1069,Casorex Agro Trade,EU,EU-ES1,EUR,Gold,2015-07-01,1170000,
+D1070,Pavena Agri Distribution,EU,EU-ES1,EUR,Gold,2009-09-01,1590000,U082
+D1071,Lovalum Agro Trade,EU,EU-IT1,EUR,Gold,2012-04-01,1680000,
+D1072,Kodorena Agrar,EU,EU-IT1,EUR,Gold,2018-04-01,1790000,U081
+D1073,Doranis Agro Trade,EU,EU-IT1,EUR,Silver,2018-04-01,810000,
+D1074,Pasoris Agrar,EU,EU-UK1,GBP,Silver,2015-03-01,1090000,
+D1075,Sarosa Agri Distribution,EU,EU-UK1,GBP,Silver,2025-10-01,420000,
+D1076,Modorum Agrar,EU,EU-UK1,GBP,Gold,2013-06-01,1170000,
+D1077,Domonis Seeds and Pesticides,IN,IN-N01,INR,Silver,2009-11-01,35880000,
+D1078,Doranena Agri Traders,IN,IN-N01,INR,Silver,2015-07-01,45040000,
+D1079,Berano Agro Agencies,IN,IN-N01,INR,Silver,2012-12-01,21150000,
+D1080,Titerena Agro Agencies,IN,IN-N01,INR,Silver,2023-10-01,31270000,
+D1081,Sulisia Agro Agencies,IN,IN-N01,INR,Silver,2014-07-01,51350000,U085
+D1082,Tidore Krishi Kendra,IN,IN-N02,INR,Silver,2016-03-01,23070000,
+D1083,Kodorex Krishi Kendra,IN,IN-N02,INR,Silver,2016-02-01,16050000,
+D1084,Rilanex Krishi Kendra,IN,IN-N02,INR,Silver,2019-12-01,33600000,
+D1085,Nelisa Agro Agencies,IN,IN-N02,INR,Silver,2019-11-01,49500000,
+D1086,Neberova Agri Traders,IN,IN-N02,INR,Silver,2013-08-01,40640000,
+D1087,Rinelia Agri Traders,IN,IN-N03,INR,Silver,2010-12-01,40260000,
+D1088,Rivalum Krishi Kendra,IN,IN-N03,INR,Silver,2025-10-01,68510000,U085
+D1089,Kolanum Seeds and Pesticides,IN,IN-N03,INR,Silver,2021-01-01,31320000,
+D1090,Gavalis Krishi Kendra,IN,IN-N03,INR,Silver,2010-02-01,21120000,
+D1091,Manele Seeds and Pesticides,IN,IN-N03,INR,Silver,2025-10-01,44770000,
+D1092,Tivalena Agro Agencies,IN,IN-C01,INR,Silver,2025-12-01,25370000,
+D1093,Gasorex Seeds and Pesticides,IN,IN-C01,INR,Silver,2019-11-01,37460000,
+D1094,Palisia Agro Agencies,IN,IN-C01,INR,Silver,2022-04-01,58560000,
+D1095,Cavalar Agri Traders,IN,IN-C01,INR,Silver,2022-04-01,63690000,U083
+D1096,Tisorova Krishi Kendra,IN,IN-C01,INR,Silver,2013-04-01,19690000,
+D1097,Tetalia Seeds and Pesticides,IN,IN-W01,INR,Silver,2017-11-01,15220000,
+D1098,Vesorex Agro Agencies,IN,IN-W01,INR,Silver,2012-06-01,47800000,
+D1099,Rilise Seeds and Pesticides,IN,IN-W01,INR,Silver,2025-12-01,5420000,
+D1100,Timonar Krishi Kendra,IN,IN-W01,INR,Silver,2009-03-01,30880000,
+D1101,Malana Agri Traders,IN,IN-W01,INR,Silver,2014-03-01,63610000,U083
+D1102,Sumonia Seeds and Pesticides,IN,IN-W01,INR,Silver,2017-06-01,65720000,
+D1103,Ritala Agri Traders,IN,IN-W02,INR,Silver,2022-01-01,84360000,U083
+D1104,Tilanar Agro Agencies,IN,IN-W02,INR,Silver,2021-04-01,34130000,
+D1105,Mabero Agri Traders,IN,IN-W02,INR,Silver,2010-03-01,54990000,
+D1106,Sarosena Agri Traders,IN,IN-W02,INR,Silver,2018-01-01,75640000,U085
+D1107,Lorinia Seeds and Pesticides,IN,IN-W02,INR,Silver,2012-11-01,18080000,
+D1108,Parano Agro Agencies,IN,IN-W02,INR,Silver,2016-09-01,51020000,
+D1109,Dovene Agro Agencies,IN,IN-W03,INR,Silver,2019-07-01,38370000,
+D1110,Vedoro Krishi Kendra,IN,IN-W03,INR,Silver,2015-05-01,27900000,
+D1111,Verinia Seeds and Pesticides,IN,IN-W03,INR,Silver,2011-07-01,20480000,
+D1112,Garana Agro Agencies,IN,IN-W03,INR,Silver,2011-08-01,36920000,
+D1113,Komarex Agri Traders,IN,IN-W03,INR,Silver,2009-05-01,45010000,
+D1114,Gadorar Seeds and Pesticides,IN,IN-S01,INR,Silver,2009-10-01,29630000,
+D1115,Valisa Agro Agencies,IN,IN-S01,INR,Silver,2013-04-01,44180000,
+D1116,Palanum Seeds and Pesticides,IN,IN-S01,INR,Silver,2012-03-01,30820000,
+D1117,Dotalex Seeds and Pesticides,IN,IN-S01,INR,Silver,2016-02-01,23120000,
+D1118,Samona Agri Traders,IN,IN-S01,INR,Silver,2017-12-01,62720000,
+D1119,Kolisena Krishi Kendra,IN,IN-S01,INR,Silver,2010-03-01,54150000,U084
+D1120,Canelova Seeds and Pesticides,IN,IN-S02,INR,Silver,2016-12-01,86860000,U084
+D1121,Kolisum Krishi Kendra,IN,IN-S02,INR,Silver,2023-11-01,33470000,
+D1122,Dodoris Seeds and Pesticides,IN,IN-S02,INR,Silver,2017-02-01,21020000,
+D1123,Nerosa Seeds and Pesticides,IN,IN-S02,INR,Silver,2022-02-01,27370000,
+D1124,Lotero Agro Agencies,IN,IN-S02,INR,Silver,2009-04-01,17230000,
+D1125,Lorinena Agri Traders,IN,IN-S03,INR,Silver,2013-11-01,34550000,
+D1126,Koranova Agro Agencies,IN,IN-S03,INR,Silver,2023-10-01,55590000,
+D1127,Galano Krishi Kendra,IN,IN-S03,INR,Silver,2009-12-01,82080000,U084
+D1128,Canelena Agro Agencies,IN,IN-S03,INR,Silver,2013-07-01,27920000,
+D1129,Vadoro Agri Traders,IN,IN-S03,INR,Silver,2023-05-01,27510000,

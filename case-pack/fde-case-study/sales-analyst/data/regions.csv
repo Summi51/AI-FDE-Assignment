@@ -1,0 +1,5 @@
+region_code,region_name,hemisphere,currencies,main_sell_in_months
+NA,North America,Northern,USD; CAD (Canada),Dec to Apr
+BR,Brazil,Southern,BRL,"Jul to Oct, smaller peak Jan to Feb"
+EU,Europe,Northern,EUR; GBP (United Kingdom),Feb to Apr and Aug to Oct
+IN,India,Northern,INR,May to Jul (kharif) and Oct to Nov (rabi)
