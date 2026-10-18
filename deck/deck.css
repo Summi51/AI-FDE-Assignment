@@ -4,7 +4,8 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font: 22px/1.35 "Iowan Old Style", Palatino, Georgia, serif;
+  font: 22px/1.35 "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+  font-variant-numeric: tabular-nums;
 }
 section {
   display: none;
