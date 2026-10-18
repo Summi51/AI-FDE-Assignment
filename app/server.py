@@ -1,5 +1,6 @@
 """Local prototype server. No client chat tool, no live warehouse."""
 import json
+import os
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -12,8 +13,8 @@ from app.access import AccessDenied
 from app.brief import monday_list, visit_brief
 from app.warehouse import connect
 
-HOST = "127.0.0.1"
-PORT = 8765
+HOST = os.environ.get("HOST", "127.0.0.1")
+PORT = int(os.environ.get("PORT", "8765"))
 
 
 def territory_list(user_id: str) -> dict:

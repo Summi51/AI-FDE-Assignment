@@ -21,7 +21,34 @@ The warehouse extract is already in the repo:
 
 `case-pack/fde-case-study/sales-analyst/data/warehouse.duckdb`
 
-The server is read-only against that file. It does not connect to a client chat tool, field app or live warehouse.
+The server is read-only against that file. It does not connect to a client chat tool, field app or live warehouse. No API key, no database server, no login.
+
+`HOST` and `PORT` are optional. Locally they default to `127.0.0.1` and `8765`.
+
+## Deploy
+
+The app is one Python process plus the DuckDB file already in the repo. Anything that runs a Python web process can host it. Render is the shortest path.
+
+1. Push this repo. It is already at https://github.com/Summi51/AI-FDE-Assignment
+2. On Render, create a **Web Service** and connect that repo. Branch `main`.
+3. Runtime: **Python 3**.
+4. Build command: `pip install -r requirements.txt`
+5. Start command: `PYTHONPATH=. python3 -m app.server`
+6. Render sets `PORT` itself. The server reads it. Leave `HOST` unset only on your laptop. On Render set `HOST` to `0.0.0.0`, or the service will bind to localhost and the health check will fail.
+7. Deploy. Open the service URL for the Monday list. Add `/deck` for the slides.
+
+There is no database to provision and no secret to paste. The warehouse file ships with the code.
+
+To run it the same way on any machine that already has Python 3.11:
+
+```bash
+git clone https://github.com/Summi51/AI-FDE-Assignment.git
+cd AI-FDE-Assignment
+python3 -m pip install -r requirements.txt
+HOST=0.0.0.0 PORT=8765 PYTHONPATH=. python3 -m app.server
+```
+
+Then open `http://<the machine>:8765/`.
 
 ## Check
 
